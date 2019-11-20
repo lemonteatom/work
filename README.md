@@ -26,5 +26,5 @@ Fork 先に push request (調べてｗ)
 iwata が　承認
 コミット完了
 
-# <linux>
+# linux
 git pull https://github.com/lemonteatom/work.git master
