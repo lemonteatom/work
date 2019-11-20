@@ -2,3 +2,10 @@
 2.GitHub SignUP
 3.AWS SignUP
 4.
+
+
+
+memo
+
+<linux>
+git pull https://github.com/lemonteatom/work.git master
